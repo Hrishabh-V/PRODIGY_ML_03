@@ -64,3 +64,7 @@ To classify an image using the pre-trained SVM model:
 - **Additional Classes**: Extend the project to recognize other animals.
 - **Real-time Classification**: Enhance the app for real-time image classification using webcam inputs.
 
+
+unzip the model first
+
+
